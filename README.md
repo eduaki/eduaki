@@ -1,6 +1,7 @@
 ## Olá!!! Eu sou Eduardo Alves, sou programador e criador de conteudo pra internet...
 - Atualmente eu lido com front e back-end.
-- Estou estudando typeScript!
+- Estou estudando typeScript.
+##
 
 <div style='display: flex;' align='center'>
   <a href="https://github.com/eduaki">
