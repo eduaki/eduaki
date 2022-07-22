@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou Eduardo Alves, sou programador e criador de conteudo pra internet...
 - Atualmente eu lido com front e back-end.
-- Estou estudando typeScript.
+- Estou estudando python e redes neurais.
 ##
 
 <div align='center'>
