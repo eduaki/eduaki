@@ -3,13 +3,13 @@
 - Estou estudando python e redes neurais.
 ##
 
-<div align='center'>
+<!-- <div align='center'>
   <a href="https://github.com/eduaki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduaki&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduaki&layout=compact&langs_count=7&theme=radical&"/>
-</div>
+</div> -->
 
-<!-- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width='40px' align='center'>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width='40px' align='center'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='40px' align='center'/>
@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width='40px' align='center'>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width='40px' align='center'>
 </div>
-   -->
+  
  ##
   
   <div>
