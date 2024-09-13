@@ -1,4 +1,4 @@
-## Olá!!! Eu sou Eduardo Alves, sou um desenvolvedor web e gerente de dados
+## Olá!!! Eu sou Eduardo Alves, desenvolvedor web e gerente de dados
 - Atualmente eu lido com front e back-end.
 - Estou estudando python e redes neurais.
 ##
