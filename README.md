@@ -1,4 +1,4 @@
-## Olá!!! Eu sou Eduardo Alves, sou programador e criador de conteudo pra internet...
+## Olá!!! Eu sou Eduardo Alves, sou um desenvolvedor web e gerente de dados
 - Atualmente eu lido com front e back-end.
 - Estou estudando python e redes neurais.
 ##
@@ -22,6 +22,5 @@
   
   <div>
   <a href="https://instagram.com/eduaki_of" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/eduaki" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:eduaki.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
