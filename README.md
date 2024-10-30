@@ -1,6 +1,7 @@
-## Olá!!! Eu sou Eduardo Alves, desenvolvedor web e gerente de dados
-- Atualmente eu lido com front e back-end.
+## Olá!!! Eu sou Eduardo Alves, desenvolvedor web e futuro cientista 🤓
+- Atualmente eu lido com front, back-end, data security.
 - Estou estudando python e redes neurais.
+- Cursando Ciências da Computação na UP
 ##
 
 <!-- <div align='center'>
