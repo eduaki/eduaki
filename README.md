@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou Eduardo Alves, desenvolvedor web e futuro cientista 🤓
-- Atualmente eu lido com front, back-end, data security.
-- Estou estudando python e redes neurais.
+- Atualmente eu lido com front, back-end, desenvolvimento de software.
+- Estou redes neurais e estruturas complexas.
 - Cursando Ciências da Computação na UP
 ##
 
